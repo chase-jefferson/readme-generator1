@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Install dependencies, run the generator in an integrated terminal, follow the prompts, check and preview your newly created ReadMe file in Github
 
 ## License
 
@@ -37,14 +37,14 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Be sure to fork the project, create your feature branch, commit your changes with descriptive messages, push to the main branch, and open a pull request.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". To make a contribution, be sure to fork the project, create your feature branch, commit your changes with descriptive messages, push to the main branch, and open a pull request.
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-npm run start
+node index.js
 ```
 
 ## Questions
