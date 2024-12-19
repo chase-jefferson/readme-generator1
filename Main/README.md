@@ -1,9 +1,9 @@
-# ReadMe Generator
+# rg
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-The purpose of this project is to create a command-line ReadMe Generator for any project.
+des
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-Install dependencies, run the generator in an integrated terminal, follow the prompts, check and preview your newly created ReadMe file in Github
+test
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". To make a contribution, be sure to fork the project, create your feature branch, commit your changes with descriptive messages, push to the main branch, and open a pull request.
+tes
 
 ## Tests
 
@@ -49,5 +49,5 @@ node index.js
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at jefferson.chase18@gmail.com. You can find more of my work at [chase-jefferson](https://github.com/chase-jefferson/).
+If you have any questions about the repo, open an issue or contact me directly at Jefferson.chase18@gmail.com. You can find more of my work at [chase-jefferson](https://github.com/chase-jefferson/).
 
